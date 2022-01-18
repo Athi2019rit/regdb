@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: sans-serif;
+}
+
+.signupform{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form{
+  background-color: white;
+  width: 400px;
+  border-radius: 8p;
+  box-sizing: border-box;
+  padding: 20px 40px;
+  box-shadow: 20px gray;
+}
+
+.title{
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+.inputbox{
+  position: relative;
+  height: 45px;
+  width: 90%;
+  margin-bottom: 17px;
+}
+
